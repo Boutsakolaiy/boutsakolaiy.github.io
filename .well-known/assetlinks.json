@@ -4,7 +4,7 @@
             "delegate_permission/common.get_login_creds"
         ],
         "target": {
-            "namespace": "com.sumsubtest",
+            "namespace": "android_app",
             "package_name": "com.sumsubtest",
             "sha256_cert_fingerprints": [
                 "4F:EF:A8:39:08:69:6F:F6:2A:66:E1:2C:FC:C0:55:6B:6A:D4:08:EE:17:C8:7A:B9:23:73:69:7F:53:BC:DF:C4"
