@@ -10,5 +10,17 @@
                 "4F:EF:A8:39:08:69:6F:F6:2A:66:E1:2C:FC:C0:55:6B:6A:D4:08:EE:17:C8:7A:B9:23:73:69:7F:53:BC:DF:C4"
             ]
         }
+    },
+      {
+        "relation": [
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.sumsubtest",
+            "sha256_cert_fingerprints": [
+                "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+            ]
+        }
     }
 ]
